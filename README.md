@@ -57,11 +57,13 @@ $ qsub -cwd qiime_workflow.sh
 
 
 References: /home/genomics/genomics/reference/Microbiome/
+
 THFv1.5: Targeted host-associated fungi (THF) database
-THFv1.62: the latest version for ITS; default database for ITS
-gg_13_5_97: green gene database for 16S
-ntF-ITS1: nt-Fungi-ITS1 database for mycobiota analysis
-RTL_20190319: NCBI RefSeq Targeted Loci database (ITS)
+
+THFv1.62: the latest version for ITS; default database for ITS 
+gg_13_5_97: green gene database for 16S  
+ntF-ITS1: nt-Fungi-ITS1 database for mycobiota analysis  
+RTL_20190319: NCBI RefSeq Targeted Loci database (ITS)  
 sh_refs_qiime_ver8: standard QIIME UNITE database, version8 (ITS)
 
 
