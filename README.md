@@ -58,8 +58,7 @@ $ qsub -cwd qiime_workflow.sh
 
 References: /home/genomics/genomics/reference/Microbiome/
 
-THFv1.5: Targeted host-associated fungi (THF) database
-
+THFv1.5: Targeted host-associated fungi (THF) database 
 THFv1.62: the latest version for ITS; default database for ITS 
 gg_13_5_97: green gene database for 16S  
 ntF-ITS1: nt-Fungi-ITS1 database for mycobiota analysis  
@@ -74,6 +73,5 @@ Deliverables:
 
 QC to check:
 
-% mapped reads: >70% (16S) and >60% (ITS)
-
+% mapped reads: >70% (16S) and >60% (ITS) 
 Recommend >5000 aligned reads per sample
